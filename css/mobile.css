@@ -1,0 +1,112 @@
+@media (max-width: 480px) {
+  a {
+    width: 50%;
+  }
+
+  .composition h1,
+  .reviews h1 {
+    font-size: 7vw;
+  }
+
+  .hero__background {
+    width: 150%;
+    box-shadow: 0 15px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .hero__title h1 {
+    font-size: 6vw;
+  }
+
+  .hero__title p {
+    padding-top: 2%;
+    padding-left: 2%;
+    font-size: 3.3vw;
+  }
+
+  .hero__description img {
+    width: 10%;
+  }
+
+  .marker {
+    font-size: 3vw;
+  }
+
+  .button {
+    font-size: 2vw;
+  }
+
+  .composition__ingredient p {
+    font-size: 2vw;
+  }
+
+  .composition__product {
+    width: 30%;
+  }
+
+  .composition__button {
+    width: 90%;
+  }
+
+  .promo__description {
+    width: 80%;
+  }
+
+  .promo__description p {
+    font-weight: normal;
+    font-size: 2.5vw;
+    text-align: justify;
+  }
+
+  .promo__characteristic {
+    width: 80%;
+    text-align: center;
+  }
+
+  .promo__characteristic span {
+    font-size: 3vw;
+  }
+
+  .order__title {
+    font-size: 6vw;
+  }
+
+  .countdown-time {
+    font-size: 5vw;
+  }
+
+  .order__image {
+    margin-bottom: 10%;
+  }
+
+  .order__image img {
+    width: 70%;
+  }
+
+  .old,
+  .old span {
+    font-size: 2vw;
+    text-decoration: line-through yellow 1px;
+  }
+
+  .new {
+    font-size: 3vw;
+  }
+
+  .order__form {
+    width: 100%;
+  }
+
+  .last-name input,
+  .tel input {
+    font-size: 3vw;
+  }
+
+  .last-name input::-webkit-input-placeholder,
+  .tel input::-webkit-input-placeholder {
+    font-size: 1.3vw;
+  }
+
+  .button.order__button {
+    width: 80%;
+  }
+}
